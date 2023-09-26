@@ -25,7 +25,7 @@ For email, I would recommend using Proton Mail or some other encrypted service
 
 A wide variety of web browsers exist for privacy, and most of them are much more extensive than so-called "incognito mode".
 
-The *de facto* standard for private web browsing is Tor(short for The Onion Router). This encrypts your searches in three layers of encryption and sends it through three relays(just computers programmed to run as Tor relays), each relay peeling back one layer of encryption. The last relay then sends the data to the website you want, which provides anonymity. However, it should also be noted that Tor has a lot of sites on it that are, well, legally questionable, and I would not recommend you use it unless you know what you're doing.
+The *de facto* standard for private web browsing is Tor(short for The Onion Router). This encrypts your searches in three layers of encryption and sends it through three relays(just computers programmed to run as Tor relays), each relay peeling back one layer of encryption. The last relay then sends the data to the website you want, which provides anonymity. However, it should also be noted that Tor has a lot of sites on it that are, well, legally questionable, and I would not recommend you use it unless you know what you're doing. If you do know what you're doing, you can find it here: https://torproject.org
 
 If you use Mullvad VPN(more on VPNs later), you are able to use the mullvad browser, which was developed in collaboration with the Tor Project: https://mullvad.net/en
 
