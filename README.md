@@ -7,11 +7,11 @@ With the rise of neofascism in America and the existence of fascism in plenty of
 
 This list will be updated as I come across more tools that can be used.
 
-**General privacy practices**
+### General privacy practices
 
 The EFF has a guide to defending against surveillance, and I would highly recommend giving it a read: https://ssd.eff.org/
 
-**Communication**
+### Communication
 
 Various tools for private and secure communication exist and are free to use most of the time. 
 
@@ -21,7 +21,7 @@ Another good app for private communication(athough admittedly more complex) is S
 
 For email, I would recommend using Proton Mail or some other encrypted service
 
-**Browsers**
+### Browsers
 
 A wide variety of web browsers exist for privacy, and most of them are much more extensive than so-called "incognito mode".
 
@@ -31,19 +31,19 @@ If you use Mullvad VPN(more on VPNs later), you are able to use the mullvad brow
 
 For use regularly, I recommend using Firefox with uBlock origin: https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com, https://ublockorigin.com/
 
-**VPNs**
+### VPNs
 
 My personal recommendation for a VPN would be Mullvad, which is inexpensive and is based out of a more VPN-friendly country, meaning it can get away with not storing your data. If you can't pay for a VPN, go with Proton. But please stay away from crappy free VPNs on the app store, as those do not provide good security in the slightest
 
 https://mullvad..net
 https://protonvpn.com/
 
-**Search Engines**
+### Search Engines
 
 One common search engine for privacy is DuckDuckGo, which is an easy to use option for a private search engine and does the job well, especially when paired with a good browser and ad blocker, like Firefox and uBlock origin. It also has a .onion service for use on Tor: https://duckduckgo.com
 
 Another good option, although extremely hit or miss unless you self-host it, is SearxNG. This is a metasearch engine, which means it pulls a bunch of results from various search engines and compiles them together. Again, though, using public instances is extremely hit or miss unless you host it yourself, which costs money: https://searx.space/
 
-**Password Managers**
+### Password Managers
 
 This isn't 100% necessary, but still a good practice. Use either Bitwarden or KeepassXC
